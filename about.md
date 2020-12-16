@@ -2,14 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is Virantha Bimsara Mudalige. I am a postgraduate. I am very passionate about Cybersecurity. In my free time I practice different methods to conduct penetration testing. Currently I am doing my internship at Delta Spike. I am also a member of the red team at Delta Spike.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[viranthamudalige@gmail.com](mailto:viranthamudalige@gmail.com)
